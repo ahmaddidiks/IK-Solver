@@ -20,7 +20,7 @@ k2 = l2*sinTetha2
 Tetha1 = math.degrees(math.atan2(z,y) - math.atan2(k2,k1))
 
 #perhitungan sudut x
-distance = sqrt(y**2 + z**)
+distance = sqrt(y**2 + z**2)
 xDeg = math.degree(math.atan2(x, distance))
 print(Tetha1)
 print(Tetha2)
